@@ -24,8 +24,8 @@
 
 ## Redes
 
-<a href="https://www.linkedin.com/in/juancarlos-vilcherrez/"><img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/linkedin.png"></a> 
-<a href="https://www.instagram.com/juancarlos2v"><img height="37" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/insta.png"></a> 
+<a href="https://www.linkedin.com/in/juancarlos-vilcherrez/" target="_blank"><img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/linkedin.png"></a> 
+<a href="https://www.instagram.com/juancarlos2v" target="_blank"><img height="37" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/insta.png"></a> 
 <!--
 **juancarlos2v/juancarlos2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

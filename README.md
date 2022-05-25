@@ -7,7 +7,7 @@
  ⠀⠀<img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
- <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="90px"/>
+ <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="90px"/>
  
  🧠 Actualmente me encuentro consolidando conocimientos en:
   
@@ -39,7 +39,7 @@
 <br>
 
 <br>
-📩 Si crees que puedo aportar en alguno de tus proyectos no dudes en contactarme.
+<p> 📩 Si crees que puedo aportar en alguno de tus proyectos no dudes en contactarme. </p>
 
 ### Redes
 

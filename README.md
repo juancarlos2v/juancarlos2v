@@ -1,13 +1,21 @@
 ## Hola Mundo 👋
-### Mi nombre es Juan Carlos, soy desarrollador full stack java.
-<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="right" width="150px"/>
+ <p align="left"> Mi nombre es Juan Carlos, desarrollador full stack </p> <br>
+ <br>
+  
+ <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="150px"/>
+ 
+ ## Lenguajes
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" align="left" src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png">
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<br>
 
-![HTML5](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif =100x)
-![CSS](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
-![JAVASCRIPT](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
-![JAVA](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
-![VUE](https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif)
-![SPRING](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+ ## Herramientas
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+
 <!--
 **juancarlos2v/juancarlos2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

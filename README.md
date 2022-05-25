@@ -1,17 +1,18 @@
 ## Hola Mundo 👋
-  Mi nombre es Juan Carlos, desarrollador full stack.
+  👨🏽‍💻 Mi nombre es Juan Carlos, desarrollador full stack 
   <br>
-  Siempre es busca de nuevos desafios es por eso que siempre me encuento en constante aprendizaje.
+  🤓 Siempre es busca de nuevos desafios es por eso que siempre me encuento en constante aprendizaje.
+   
+  🧠 Actualmente me encuentro consolidando conocimientos en:
   
+  - Vue.js
+  - React
+  - Ingles
   
-  Actualmente me encuentro consolidando conocimientos en:
-  <ul>
-  <li>Ingles</li>
-  <li>React</li>
-  <li>Vue.js</li>
-  </ul>
-  
- <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="right" width="90px"/>
+ ⠀⠀<img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
+ <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
+ <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
+ <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="90px"/>
  
  ### Lenguajes y Herramientas
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/html-5.png">
@@ -26,11 +27,14 @@
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/intellij.png">
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/git.png">
 
-<!--<img height="40" align="left" src="">
+<!--
 <img height="40" align="left" src="">
 <img height="40" align="left" src=""> -->
 <br>
 <br>
+
+<br>
+📩 Si crees que puedo aportar en alguno de tus proyectos no dudes en contactarme.
 
 ### Redes
 

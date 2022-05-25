@@ -1,9 +1,19 @@
 ## Hola Mundo 👋
-  Mi nombre es Juan Carlos, desarrollador full stack
+  Mi nombre es Juan Carlos, desarrollador full stack.
+  <br>
+  Siempre es busca de nuevos desafios es por eso que siempre me encuento en constante aprendizaje.
+  
+  
+  Actualmente me encuentro consolidando conocimientos en:
+  <ul>
+  <li>Ingles</li>
+  <li>React</li>
+  <li>Vue.js</li>
+  </ul>
   
  <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="right" width="90px"/>
  
- ## Lenguajes y Herramientas
+ ### Lenguajes y Herramientas
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/html-5.png">
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/css-3.png">
 <img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/js.png">
@@ -22,10 +32,10 @@
 <br>
 <br>
 
-## Redes
+### Redes
 
-<a href="https://www.linkedin.com/in/juancarlos-vilcherrez/" target="_blank"><img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/linkedin.png"></a> 
-<a href="https://www.instagram.com/juancarlos2v" target="_blank"><img height="37" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/insta.png"></a> 
+<a href="https://www.linkedin.com/in/juancarlos-vilcherrez/"  target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
+<a href="https://www.instagram.com/juancarlos2v"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> 
 <!--
 **juancarlos2v/juancarlos2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

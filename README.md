@@ -3,17 +3,22 @@
   <br>
   🤓 Siempre es busca de nuevos desafios es por eso que siempre me encuento en constante aprendizaje.
    
-  🧠 Actualmente me encuentro consolidando conocimientos en:
-  
-  - Vue.js
-  - React
-  - Ingles
   
  ⠀⠀<img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="90px"/>
  
+ 🧠 Actualmente me encuentro consolidando conocimientos en:
+  
+  <img height="25" align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="25" align="left" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+  <img height="25" align="left" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
+  <br>
+  
+  <br>
+  
  ### Lenguajes y Herramientas
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/html-5.png">
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/css-3.png">

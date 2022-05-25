@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hola Mundo 👋
+### Mi nombre es Juan Carlos, soy desarrollador full stack java.
+<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="right" width="150px"/>
 
+![HTML5](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif =100x)
+![CSS](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+![JAVASCRIPT](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+![JAVA](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
+![VUE](https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif)
+![SPRING](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
 <!--
 **juancarlos2v/juancarlos2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

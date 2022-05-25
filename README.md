@@ -21,11 +21,11 @@
 <img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/java.png">
 <img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/vue.png">
 <img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/spring.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/photoshop.png">
-
-<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/intellij.png">
+<img height="45" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/eed0f48c875758c2b6e04e13b1cacc5f1645f8a4/iconos/postman.svg">
 <img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/git.png">
+<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/intellij.png">
+<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/photoshop.png">
 
 <!--
 <img height="40" align="left" src="">

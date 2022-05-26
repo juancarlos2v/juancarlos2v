@@ -1,7 +1,7 @@
 ## Hola Mundo 👋
   👨🏽‍💻 Mi nombre es Juan Carlos, desarrollador full stack 
   <br>
-  🤓 Siempre es busca de nuevos desafios es por eso que siempre me encuento en constante aprendizaje.
+  🤓 Soy una persona en busca de nuevos desafios es por eso que siempre me encuentro en constante aprendizaje.
    
   
  ⠀⠀<img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
@@ -9,7 +9,7 @@
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
  <img height="40" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" width="90px"/>
  
- 🧠 Actualmente me encuentro consolidando conocimientos en:
+ 🧠 Actualmente estoy consolidando conocimientos en:
   
   <img height="25" align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img height="25" align="left" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">

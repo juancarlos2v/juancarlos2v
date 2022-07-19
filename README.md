@@ -1,13 +1,13 @@
 ## Hola Mundo 👋
   👨🏽‍💻 Mi nombre es Juan Carlos, desarrollador full stack 
  
- <!-- 🤓 Soy una persona en busca de nuevos desafios es por eso que siempre me encuentro en constante aprendizaje. -->
+ <!-- 🤓 Soy una persona en busca de nuevos desafios es por eso que siempre me encuentro en constante aprendizaje.
    
   
  ⠀⠀<img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
  <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
  <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
- <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" height="90px"/>
+ <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" height="90px"/> -->
  
   <br>
   

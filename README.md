@@ -1,50 +1,14 @@
 ## Hola Mundo 👋
- <!--  👨🏽‍💻 Mi nombre es Juan Carlos, desarrollador full stack 
- 
-  🤓 Soy una persona en busca de nuevos desafios es por eso que siempre me encuentro en constante aprendizaje
-   
-  
- ⠀⠀<img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">
- <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
- <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀
- <img height="30" align="left" src="https://media.giphy.com/media/ie22ZfuaW35JnAlLXU/giphy.gif">⠀⠀⠀<img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" align="left" height="90px"/> -->
- 
-  <br>
-  
-  <br>
-  
- ### Lenguajes y Herramientas
- 
- <div>
-<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/html-5.png">
-<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/css-3.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/js.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/java.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/vue.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/spring.png">
-<img height="45" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/eed0f48c875758c2b6e04e13b1cacc5f1645f8a4/iconos/postman.svg">
-<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/git.png">
-<img height="40" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/84d56893dd963085b3fe2adb598c3191f4abae0b/iconos/intellij.png">
-<img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img height="35" align="left" src="https://github.com/juancarlos2v/juancarlos2v/blob/2d3276d21141b75c45b22a19184d78efd46d994e/iconos/photoshop.png"> <br>
-</div>
-
-<!--
-<img height="40" align="left" src="">
-<img height="40" align="left" src=""> -->
-<br>
-<br>
-
-<br>
-
-<div>
-<p> 📩 Si crees que puedo aportar en alguno de tus proyectos no dudes en contactarme. </p>
-</div>
-  
-### Redes
-
-<a href="https://www.linkedin.com/in/juancarlos-vilcherrez/"  target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a> 
-<a href="https://www.instagram.com/juancarlos2v"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> 
+<p align="center">
+    <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" height="90px" />
+        <br><br>
+            <samp>
+                Soy Juan Carlos, estudiante de arquitectura y desarrollador web. Actualmente me encuentro trabajando con React y Node.js
+                <!-- I'm Naiyarah. A Web Developer from Sri Lanka and Developer Advocate at IBM focusing on Data & AI. I work with developers from enterprises, startups, open source communities & universities to build their apps & solutions.-->
+                <br><br>Contact me on <a href="https://twitter.com/naisofly">Instagram</a>, <a href="https://www.linkedin.com/in/naiyarah/">Linkedin</a>, or <a href="mailto:juanc.vilcherrez@gmail.com">Send an Email</a>
+                </samp>
+</p>
+                
 <!--
 **juancarlos2v/juancarlos2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

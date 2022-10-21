@@ -5,7 +5,7 @@
             <samp>
                 Soy Juan Carlos, estudiante de arquitectura y desarrollador web. Actualmente me encuentro trabajando con React y Node.js
                 <!-- I'm Naiyarah. A Web Developer from Sri Lanka and Developer Advocate at IBM focusing on Data & AI. I work with developers from enterprises, startups, open source communities & universities to build their apps & solutions.-->
-                <br><br>Contact me on <a href="https://twitter.com/naisofly">Instagram</a>, <a href="https://www.linkedin.com/in/naiyarah/">Linkedin</a>, or <a href="mailto:juanc.vilcherrez@gmail.com">Send an Email</a>
+                <br><br>Contact me on <a href="https://www.instagram.com/juancarlos2v">Instagram</a>, <a href="https://www.linkedin.com/in/juancarlos-vilcherrez/">Linkedin</a>, or <a href="mailto:juanc.vilcherrez@gmail.com">Send an Email</a>
                 </samp>
 </p>
                 
